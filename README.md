@@ -12,7 +12,7 @@ The Dataset contains 10,000 Yelp reviews from the customer. The following are th
 * cool/useful/funny (comments of reviews)</br></br>
 <strong>Purpose of analysis:</strong></br>
 The purpose of this analysis is to apply sentiment analysis technique on the Yelp review dataset from the customers and predict whether the review is negative or positive. To do this task, we will be performing three predictive Machine Learning algorithm to build model. In the conclusion, we will identifying which model is best for sentiment reviews.</br></br>
-</br></br>
+</br>
 The following steps will be followed for the analysis:</br>
 * Importing the Dataset</br>
 * Processing the dataset</br>
